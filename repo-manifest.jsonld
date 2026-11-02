@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/zopefoundation/Persistence/commit/dd314e753b91ce2024540d86aa834bde3cb6dc96",
       "git:hexsha": "dd314e753b91ce2024540d86aa834bde3cb6dc96",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/zopefoundation/Persistence/commit/6ee9d00ce1a1a12cf27e1f82193b7d991664bc72",
